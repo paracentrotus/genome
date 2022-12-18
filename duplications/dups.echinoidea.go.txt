@@ -1,0 +1,151 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher.classic	FDR	BH	Ontology
+1	GO:0006022	aminoglycan metabolic process	80	47	20.08	1.4e-10	7e-09	7e-09	BP
+2	GO:0006811	ion transport	754	262	189.25	3.5e-10	7e-09	1.715e-08	BP
+3	GO:0003013	circulatory system process	232	101	58.23	4.2e-10	7e-09	2.016e-08	BP
+4	GO:0030203	glycosaminoglycan metabolic process	75	44	18.82	5.9e-10	7.375e-09	2.773e-08	BP
+5	GO:0003008	system process	703	244	176.45	1.7e-09	1.7e-08	7.82e-08	BP
+6	GO:0006575	cellular modified amino acid metabolic p...	142	67	35.64	7.9e-09	6.58333333333333e-08	3.555e-07	BP
+7	GO:1903510	mucopolysaccharide metabolic process	53	33	13.3	1.1e-08	7.85714285714286e-08	4.84e-07	BP
+8	GO:0006935	chemotaxis	199	86	49.95	1.3e-08	8.125e-08	5.59e-07	BP
+9	GO:0040011	locomotion	709	241	177.95	1.9e-08	1.05555555555556e-07	7.98e-07	BP
+10	GO:0006749	glutathione metabolic process	52	32	13.05	2.7e-08	1.33333333333333e-07	1.107e-06	BP
+11	GO:0016042	lipid catabolic process	202	86	50.7	3.0e-08	1.33333333333333e-07	1.2e-06	BP
+12	GO:0032501	multicellular organismal process	3088	879	775.05	3.7e-08	1.33333333333333e-07	1.44e-06	BP
+13	GO:0044281	small molecule metabolic process	1222	384	306.71	3.8e-08	1.33333333333333e-07	1.44e-06	BP
+14	GO:0006814	sodium ion transport	121	58	30.37	3.9e-08	1.33333333333333e-07	1.44e-06	BP
+15	GO:0008015	blood circulation	194	83	48.69	4.0e-08	1.33333333333333e-07	1.44e-06	BP
+16	GO:0030001	metal ion transport	372	139	93.37	5.6e-08	1.75e-07	1.96e-06	BP
+17	GO:0006082	organic acid metabolic process	725	242	181.97	1.0e-07	2.94117647058824e-07	3.4e-06	BP
+18	GO:0008217	regulation of blood pressure	72	39	18.07	1.1e-07	3.05555555555556e-07	3.63e-06	BP
+19	GO:0048812	neuron projection morphogenesis	328	124	82.32	1.4e-07	3.68421052631579e-07	4.4e-06	BP
+20	GO:0042330	taxis	208	86	52.21	1.5e-07	3.75e-07	4.4e-06	BP
+21	GO:0065008	regulation of biological quality	1743	521	437.47	1.8e-07	4.28571428571429e-07	4.4e-06	BP
+22	GO:0006812	cation transport	500	175	125.49	2.3e-07	5.20833333333333e-07	4.4e-06	BP
+23	GO:0043436	oxoacid metabolic process	714	237	179.21	2.4e-07	5.20833333333333e-07	4.4e-06	BP
+24	GO:0120039	plasma membrane bounded cell projection ...	331	124	83.08	2.5e-07	5.20833333333333e-07	4.4e-06	BP
+25	GO:0048858	cell projection morphogenesis	332	124	83.33	3.1e-07	5.96153846153846e-07	4.4e-06	BP
+26	GO:0006928	movement of cell or subcellular componen...	843	273	211.58	3.1e-07	5.96153846153846e-07	4.4e-06	BP
+27	GO:0032990	cell part morphogenesis	345	127	86.59	5.5e-07	1.01851851851852e-06	4.4e-06	BP
+28	GO:0022610	biological adhesion	507	175	127.25	6.5e-07	1.12068965517241e-06	4.4e-06	BP
+29	GO:0032989	cellular component morphogenesis	379	137	95.12	6.5e-07	1.12068965517241e-06	4.4e-06	BP
+30	GO:0048870	cell motility	600	201	150.59	1.0e-06	1.61290322580645e-06	4.4e-06	BP
+31	GO:0051674	localization of cell	600	201	150.59	1.0e-06	1.61290322580645e-06	4.4e-06	BP
+32	GO:0097485	neuron projection guidance	125	56	31.37	1.1e-06	1.71875e-06	4.4e-06	BP
+33	GO:0015672	monovalent inorganic cation transport	223	88	55.97	1.2e-06	1.81818181818182e-06	4.4e-06	BP
+34	GO:0048667	cell morphogenesis involved in neuron di...	301	112	75.55	1.4e-06	2e-06	4.4e-06	BP
+35	GO:0016477	cell migration	516	176	129.51	1.4e-06	2e-06	4.4e-06	BP
+36	GO:0006820	anion transport	305	113	76.55	1.6e-06	2.22222222222222e-06	4.4e-06	BP
+37	GO:0007411	axon guidance	124	55	31.12	2.0e-06	2.7027027027027e-06	4.4e-06	BP
+38	GO:0050920	regulation of chemotaxis	65	34	16.31	2.2e-06	2.89473684210526e-06	4.4e-06	BP
+39	GO:0003015	heart process	104	48	26.1	2.3e-06	2.94871794871795e-06	4.4e-06	BP
+40	GO:0006024	glycosaminoglycan biosynthetic process	50	28	12.55	2.9e-06	3.625e-06	4.4e-06	BP
+41	GO:0015849	organic acid transport	202	80	50.7	3.1e-06	3.78048780487805e-06	4.4e-06	BP
+42	GO:0006023	aminoglycan biosynthetic process	53	29	13.3	3.7e-06	4.16666666666667e-06	4.4e-06	BP
+43	GO:0007155	cell adhesion	499	169	125.24	3.8e-06	4.16666666666667e-06	4.4e-06	BP
+44	GO:0040012	regulation of locomotion	363	129	91.11	3.9e-06	4.16666666666667e-06	4.4e-06	BP
+45	GO:0015711	organic anion transport	264	99	66.26	3.9e-06	4.16666666666667e-06	4.4e-06	BP
+46	GO:0007586	digestion	61	32	15.31	4.0e-06	4.16666666666667e-06	4.4e-06	BP
+47	GO:0048666	neuron development	579	192	145.32	4.0e-06	4.16666666666667e-06	4.4e-06	BP
+48	GO:0046942	carboxylic acid transport	200	79	50.2	4.0e-06	4.16666666666667e-06	4.4e-06	BP
+49	GO:1903522	regulation of blood circulation	100	46	25.1	4.1e-06	4.18367346938776e-06	4.4e-06	BP
+50	GO:0044242	cellular lipid catabolic process	163	67	40.91	4.4e-06	4.4e-06	4.4e-06	BP
+51	GO:0005886	plasma membrane	2105	701	526.72	5.6e-23	2.1e-21	2.8e-21	CC
+52	GO:0071944	cell periphery	2162	716	540.99	8.4e-23	2.1e-21	4.116e-21	CC
+53	GO:0016020	membrane	4150	1219	1038.43	5.6e-19	9.33333333333333e-18	2.688e-17	CC
+54	GO:0031224	intrinsic component of membrane	2380	750	595.53	2.6e-17	3.25e-16	1.222e-15	CC
+55	GO:0016021	integral component of membrane	2327	732	582.27	1.4e-16	1.4e-15	6.44e-15	CC
+56	GO:0005887	integral component of plasma membrane	600	231	150.13	2.8e-14	2.33333333333333e-13	1.26e-12	CC
+57	GO:0031226	intrinsic component of plasma membrane	616	235	154.14	5.4e-14	3.85714285714286e-13	2.376e-12	CC
+58	GO:0005576	extracellular region	1079	363	269.99	7.5e-12	4.6875e-11	3.225e-10	CC
+59	GO:0098590	plasma membrane region	632	232	158.14	8.5e-12	4.72222222222222e-11	3.57e-10	CC
+60	GO:0005615	extracellular space	663	240	165.9	1.9e-11	9.5e-11	7.79e-10	CC
+61	GO:0016324	apical plasma membrane	185	84	46.29	9.4e-10	4.27272727272727e-09	3.76e-08	CC
+62	GO:0045177	apical part of cell	222	94	55.55	8.3e-09	3.45833333333333e-08	3.237e-07	CC
+63	GO:0120025	plasma membrane bounded cell projection	1170	359	292.76	1.5e-06	5.76923076923077e-06	5.7e-05	CC
+64	GO:0042995	cell projection	1222	371	305.77	3.0e-06	1e-05	0.000108	CC
+65	GO:0031253	cell projection membrane	165	68	41.29	3.0e-06	1e-05	0.000108	CC
+66	GO:0002116	semaphorin receptor complex	11	10	2.75	8.1e-06	2.53125e-05	0.0002835	CC
+67	GO:0005858	axonemal dynein complex	21	15	5.25	1.0e-05	2.77777777777778e-05	0.00033	CC
+68	GO:0034703	cation channel complex	80	38	20.02	1.0e-05	2.77777777777778e-05	0.00033	CC
+69	GO:0009986	cell surface	240	89	60.05	1.8e-05	4.73684210526316e-05	0.000576	CC
+70	GO:0016459	myosin complex	31	19	7.76	2.0e-05	5e-05	0.00062	CC
+71	GO:0043005	neuron projection	680	216	170.15	2.2e-05	5.20833333333333e-05	0.00066	CC
+72	GO:0098797	plasma membrane protein complex	164	65	41.04	2.3e-05	5.20833333333333e-05	0.000667	CC
+73	GO:0098862	cluster of actin-based cell projections	100	44	25.02	2.5e-05	5.20833333333333e-05	0.000675	CC
+74	GO:0031012	extracellular matrix	219	82	54.8	2.5e-05	5.20833333333333e-05	0.000675	CC
+75	GO:0098858	actin-based cell projection	92	41	23.02	3.2e-05	6.11111111111111e-05	0.000792	CC
+76	GO:0043230	extracellular organelle	310	109	77.57	3.3e-05	6.11111111111111e-05	0.000792	CC
+77	GO:1902495	transmembrane transporter complex	113	48	28.28	3.3e-05	6.11111111111111e-05	0.000792	CC
+78	GO:0070062	extracellular exosome	304	106	76.07	6.2e-05	0.000110344827586207	0.001408	CC
+79	GO:0099056	integral component of presynaptic membra...	38	21	9.51	6.4e-05	0.000110344827586207	0.001408	CC
+80	GO:0034702	ion channel complex	107	45	26.77	7.8e-05	0.00013	0.001638	CC
+81	GO:0031526	brush border membrane	44	23	11.01	9.2e-05	0.000148387096774194	0.00184	CC
+82	GO:1903561	extracellular vesicle	307	106	76.82	9.7e-05	0.0001515625	0.001843	CC
+83	GO:1990351	transporter complex	120	48	30.03	0.00020	0.000303030303030303	0.00311	CC
+84	GO:0097060	synaptic membrane	191	70	47.79	0.00021	0.000308823529411765	0.00311	CC
+85	GO:0030286	dynein complex	49	24	12.26	0.00024	0.000342857142857143	0.00311	CC
+86	GO:0098889	intrinsic component of presynaptic membr...	41	21	10.26	0.00027	0.000364864864864865	0.00311	CC
+87	GO:0036477	somatodendritic compartment	419	136	104.84	0.00027	0.000364864864864865	0.00311	CC
+88	GO:0005903	brush border	67	30	16.77	0.00032	0.000421052631578947	0.00311	CC
+89	GO:0036156	inner dynein arm	8	7	2	0.00038	0.000487179487179487	0.00311	CC
+90	GO:0030054	cell junction	893	265	223.45	0.00049	0.0006125	0.00311	CC
+91	GO:0005911	cell-cell junction	170	62	42.54	0.00054	0.000658536585365854	0.00311	CC
+92	GO:0043202	lysosomal lumen	32	17	8.01	0.00059	0.000702380952380952	0.00311	CC
+93	GO:0043235	receptor complex	138	52	34.53	0.00061	0.000709302325581395	0.00311	CC
+94	GO:0043025	neuronal cell body	252	86	63.06	0.00065	0.000738636363636364	0.00311	CC
+95	GO:0098802	plasma membrane signaling receptor compl...	50	23	12.51	0.00100	0.00111111111111111	0.00311	CC
+96	GO:0005923	bicellular tight junction	39	19	9.76	0.00115	0.00125	0.00311	CC
+97	GO:0031528	microvillus membrane	12	8	3	0.00278	0.00295744680851064	0.00311	CC
+98	GO:0043198	dendritic shaft	22	12	5.5	0.00286	0.00297916666666667	0.00311	CC
+99	GO:0042734	presynaptic membrane	75	30	18.77	0.00295	0.00301020408163265	0.00311	CC
+100	GO:0045211	postsynaptic membrane	137	49	34.28	0.00311	0.00311	0.00311	CC
+101	GO:0005215	transporter activity	689	265	180.36	9.2e-14	4.6e-12	4.6e-12	MF
+102	GO:0022857	transmembrane transporter activity	615	240	160.99	2.6e-13	6.5e-12	1.274e-11	MF
+103	GO:0015075	ion transmembrane transporter activity	490	192	128.27	5.4e-11	9e-10	2.592e-09	MF
+104	GO:0015318	inorganic molecular entity transmembrane...	460	181	120.42	1.4e-10	1.75e-09	6.58e-09	MF
+105	GO:0046873	metal ion transmembrane transporter acti...	233	104	60.99	5.2e-10	5.2e-09	2.392e-08	MF
+106	GO:0015081	sodium ion transmembrane transporter act...	103	56	26.96	9.3e-10	7.75e-09	4.185e-08	MF
+107	GO:0020037	heme binding	103	55	26.96	3.2e-09	2.28571428571429e-08	1.408e-07	MF
+108	GO:0022890	inorganic cation transmembrane transport...	315	129	82.46	4.1e-09	2.5625e-08	1.763e-07	MF
+109	GO:0015370	solute:sodium symporter activity	58	36	15.18	8.6e-09	4.77777777777778e-08	3.612e-07	MF
+110	GO:0005343	organic acid:sodium symporter activity	34	25	8.9	1.0e-08	5e-08	4.1e-07	MF
+111	GO:0008514	organic anion transmembrane transporter ...	169	77	44.24	3.2e-08	1.41666666666667e-07	1.28e-06	MF
+112	GO:0015293	symporter activity	130	63	34.03	3.4e-08	1.41666666666667e-07	1.326e-06	MF
+113	GO:0046906	tetrapyrrole binding	112	56	29.32	5.0e-08	1.92307692307692e-07	1.9e-06	MF
+114	GO:0015291	secondary active transmembrane transport...	189	83	49.48	7.2e-08	2.57142857142857e-07	2.664e-06	MF
+115	GO:0015294	solute:cation symporter activity	77	42	20.16	1.0e-07	3.23529411764706e-07	3.6e-06	MF
+116	GO:0015267	channel activity	211	90	55.23	1.1e-07	3.23529411764706e-07	3.74e-06	MF
+117	GO:0022803	passive transmembrane transporter activi...	211	90	55.23	1.1e-07	3.23529411764706e-07	3.74e-06	MF
+118	GO:0005261	cation channel activity	159	72	41.62	1.2e-07	3.33333333333333e-07	3.96e-06	MF
+119	GO:0008324	cation transmembrane transporter activit...	345	133	90.31	1.8e-07	4.73684210526316e-07	5.76e-06	MF
+120	GO:0022804	active transmembrane transporter activit...	253	103	66.23	2.2e-07	5.23809523809524e-07	6.6e-06	MF
+121	GO:0005216	ion channel activity	196	84	51.31	2.2e-07	5.23809523809524e-07	6.6e-06	MF
+122	GO:0008569	ATP-dependent microtubule motor activity...	23	18	6.02	2.6e-07	5.90909090909091e-07	7.54e-06	MF
+123	GO:0008509	anion transmembrane transporter activity	224	93	58.64	3.0e-07	6.45833333333333e-07	8.37e-06	MF
+124	GO:0046943	carboxylic acid transmembrane transporte...	128	60	33.51	3.1e-07	6.45833333333333e-07	8.37e-06	MF
+125	GO:0004553	hydrolase activity, hydrolyzing O-glycos...	77	41	20.16	3.5e-07	7e-07	9.1e-06	MF
+126	GO:0005342	organic acid transmembrane transporter a...	129	60	33.77	4.4e-07	8.46153846153846e-07	1.1e-05	MF
+127	GO:0004364	glutathione transferase activity	16	14	4.19	4.7e-07	8.7037037037037e-07	1.128e-05	MF
+128	GO:0015077	monovalent inorganic cation transmembran...	194	82	50.78	6.2e-07	1.10714285714286e-06	1.426e-05	MF
+129	GO:0070330	aromatase activity	28	20	7.33	6.9e-07	1.18965517241379e-06	1.518e-05	MF
+130	GO:0016614	oxidoreductase activity, acting on CH-OH...	114	54	29.84	8.0e-07	1.33333333333333e-06	1.68e-05	MF
+131	GO:0008106	alcohol dehydrogenase (NADP+) activity	17	14	4.45	2.0e-06	3.2258064516129e-06	4e-05	MF
+132	GO:0005509	calcium ion binding	351	130	91.88	3.1e-06	4.84375e-06	4.4e-05	MF
+133	GO:0004497	monooxygenase activity	88	43	23.04	3.8e-06	5.75757575757576e-06	4.4e-05	MF
+134	GO:0016616	oxidoreductase activity, acting on the C...	102	48	26.7	4.1e-06	6.02941176470588e-06	4.4e-05	MF
+135	GO:0090482	vitamin transmembrane transporter activi...	14	12	3.66	5.3e-06	7.57142857142857e-06	4.4e-05	MF
+136	GO:0022853	active ion transmembrane transporter act...	146	63	38.22	5.5e-06	7.63888888888889e-06	4.4e-05	MF
+137	GO:0005506	iron ion binding	120	54	31.41	5.7e-06	7.7027027027027e-06	4.4e-05	MF
+138	GO:0051959	dynein light intermediate chain binding	24	17	6.28	5.9e-06	7.76315789473684e-06	4.4e-05	MF
+139	GO:0015355	secondary active monocarboxylate transme...	20	15	5.24	6.9e-06	8.41463414634146e-06	4.4e-05	MF
+140	GO:0004033	aldo-keto reductase (NADP) activity	18	14	4.71	6.9e-06	8.41463414634146e-06	4.4e-05	MF
+141	GO:0015926	glucosidase activity	18	14	4.71	6.9e-06	8.41463414634146e-06	4.4e-05	MF
+142	GO:0016798	hydrolase activity, acting on glycosyl b...	102	47	26.7	1.0e-05	1.19047619047619e-05	4.4e-05	MF
+143	GO:0098960	postsynaptic neurotransmitter receptor a...	46	26	12.04	1.2e-05	1.3953488372093e-05	4.4e-05	MF
+144	GO:0016787	hydrolase activity	1705	514	446.33	1.8e-05	2.04545454545455e-05	4.4e-05	MF
+145	GO:0099528	G protein-coupled neurotransmitter recep...	19	14	4.97	2.0e-05	2.17391304347826e-05	4.4e-05	MF
+146	GO:0140161	monocarboxylate:sodium symporter activit...	19	14	4.97	2.0e-05	2.17391304347826e-05	4.4e-05	MF
+147	GO:0016712	oxidoreductase activity, acting on paire...	35	21	9.16	2.4e-05	2.5531914893617e-05	4.4e-05	MF
+148	GO:1901618	organic hydroxy compound transmembrane t...	31	19	8.12	3.9e-05	4.0625e-05	4.4e-05	MF
+149	GO:0022836	gated channel activity	145	60	37.96	4.2e-05	4.28571428571429e-05	4.4e-05	MF
+150	GO:0004745	retinol dehydrogenase activity	10	9	2.62	4.4e-05	4.4e-05	4.4e-05	MF
